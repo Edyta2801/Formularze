@@ -1,0 +1,8 @@
+.container {
+    width:200px;
+    height:200px;
+    background-color: blue;
+    margin-bottom:10px;
+}
+input [type= "text"],
+input [type= "email"]{border:1px solid blue;}
